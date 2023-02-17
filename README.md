@@ -22,6 +22,11 @@
 - [What is blockchain and how does it work?](https://www.youtube.com/watch?v=SSo_EIwHSd4&ab_channel=SimplyExplained)
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)
 
+## 📗 Cursos de aprofundamento 📗
+
+- [Blockchain Essentials](https://learn.acloud.guru/course/5f0e00da-f02e-4953-b450-45e3cb36f0bd/overview)
+- [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+
 ## 😮Linguagens para ficar de 👀
 
 ### [Solidity](https://docs.soliditylang.org/en/v0.8.18/#)
