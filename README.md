@@ -1,11 +1,11 @@
 
 # 🚀 Road to web3 🚀
 
-👋 Olá! A ideia desse repositório e fornecer informações relevantes para pessoas que desejam compreender a Blockchain, web3, cryptocurrency.
+👋 Olá! A ideia desse repositório e fornecer informações relevantes para pessoas que desejam compreender a Blockchain, web3, cryptocurrency. 
+
+🙄 Seria ótimo contar com a sua contribuição neste repositório. Sinta-se à vontade para abrir um pull request caso tenha interesse 😁
 
 ## 🤯 Roadmaps
-
-
 
 ### Blockchain developer
 
@@ -17,7 +17,10 @@
 
 [Aqui](https://github.com/Envoy-VC/blockend-developer-roadmap) o audtor desse guia usa o termo **Block**end, em poucas palavras é o dev que atua na criação, manutenção de blockchains e smartconstracs
 
+## 📚 Cursos gratuitos de ótima qualidade 📚
 
+- [What is blockchain and how does it work?](https://www.youtube.com/watch?v=SSo_EIwHSd4&ab_channel=SimplyExplained)
+- [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)
 
 ## 😮Linguagens para ficar de 👀
 
@@ -29,7 +32,7 @@ Linguagem criada especialmente para lidar com smart contracts que rodam na rede 
 
 Temos tanto as vantagens do webassembly, performance e ja esta sendo adotada em algumas blockchain, sendo a principal a Solana e Polkadot.
 
-### E o java, C#, python, cpp...??
+### E o java, C#, python, cpp... javascript...??
 
 Outras linguagens de programação, tais como Java, C#, Python, são opções estabelecidas que, muito provavelmente, também poderão ser utilizadas na construção de integrações. Embora não tenham sido mencionadas anteriormente, já são amplamente conhecidas.
 
