@@ -5,6 +5,14 @@
 
 🙄 Seria ótimo contar com a sua contribuição neste repositório. Sinta-se à vontade para abrir um pull request caso tenha interesse 😁
 
+#### Table of contents
+- [Roadmaps](#-roadmaps)
+- [Cursos gratuitos de ótima qualidade](#-roadmaps)
+- [Cursos de aprofundamento](#-cursos-de-aprofundamento-)
+- [Linguagens para ficar de 👀](#linguagens-para-ficar-de-)
+- [Comunidades para acompanhar de perto](#comunidades-para-acompanhar-de-perto)
+
+
 ## 🤯 Roadmaps
 
 ### Blockchain developer
