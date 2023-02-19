@@ -56,4 +56,9 @@ Comunidades brasileira super ativa com vária iniciativas para ajudar iniciantes
 
 ### [Mercurius Crypto](https://www.youtube.com/@mercurius-crypto)
 
-Canal do youtube trazendo sempre informação atualizada do mundo de cripto e blockchain
+Um canal no YouTube que traz informações atualizadas sobre criptomoedas e tecnologia blockchain.
+
+### [Ethereum Brasil](https://www.ethereumbrasil.com/)
+
+Comunidade para apoiar os builder em nosso pais. Várias iniciativas são feitas para fomentar, uma deles são os eventos anuais tipo o [Ethereum rio 2023](https://www.ethereumbrasil.com/ethereumrio) que vai rolar agora nos dias 28-30 de março
+
