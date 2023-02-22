@@ -23,7 +23,7 @@
 
 ### Blockend developer
 
-[Aqui](https://github.com/Envoy-VC/blockend-developer-roadmap) o audtor desse guia usa o termo **Block**end, em poucas palavras é o dev que atua na criação, manutenção de blockchains e smartconstracs
+[Aqui](https://github.com/Envoy-VC/blockend-developer-roadmap) o autor desse guia usa o termo **Block**end, em poucas palavras é o dev que atua na criação, manutenção de blockchains e smartconstracs
 
 ## 📚 Cursos gratuitos de ótima qualidade 📚
 
