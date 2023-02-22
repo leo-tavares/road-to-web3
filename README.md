@@ -62,3 +62,13 @@ Um canal no YouTube que traz informações atualizadas sobre criptomoedas e tecn
 
 Comunidade para apoiar os builder em nosso pais. Várias iniciativas são feitas para fomentar, uma deles são os eventos anuais tipo o [Ethereum rio 2023](https://www.ethereumbrasil.com/ethereumrio) que vai rolar agora nos dias 28-30 de março
 
+### [Blockchain rio festival](https://www.blockchainrio.com.br/)
+
+O BlockchaIn Rio Festival é um dos maiores eventos de blockchain da América Latina, e um dos maiores já realizados no mundo, conectando algumas das mentes mais brilhantes do planeta. Esse ano (2023) será realizdo nos dias 12, 13, e 14 de setembro no EXPOMAG - RIO DE JANEIRO
+
+### [Criptoloop](https://www.criptoloop.com.br/)
+
+Comunidade focada em games que utlizam blockchain, tem ferramentas para acompanhar o mercado e dicas de estudo. Games em destaque são axie infinity e o Mir4
+
+
+
