@@ -9,6 +9,7 @@
 - [Roadmaps](#-roadmaps)
 - [Cursos gratuitos de ótima qualidade](#-roadmaps)
 - [Cursos de aprofundamento](#-cursos-de-aprofundamento-)
+- [Artigos](#-artigos-)
 - [Linguagens para ficar de 👀](#linguagens-para-ficar-de-)
 - [Comunidades para acompanhar de perto](#comunidades-para-acompanhar-de-perto)
 
@@ -34,6 +35,11 @@
 
 - [Blockchain Essentials](https://learn.acloud.guru/course/5f0e00da-f02e-4953-b450-45e3cb36f0bd/overview)
 - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+
+## 📓 Artigos 📓
+
+- [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
+- [What is blockchain](https://cse.sc.edu/~mgv/csce190f18/diPierro_mcs2017050092.pdf)
 
 ## 😮Linguagens para ficar de 👀
 
