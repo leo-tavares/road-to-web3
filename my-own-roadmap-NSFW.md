@@ -21,6 +21,8 @@ Recomendo o canal do mestre michael van biezen e o livro da judith L gersting Ma
 Architecture
 
 - Blockchain architecture
+- Layers (...hardware/infra, Data, protocol/consensus, app)
+    - Aqui nós vamos entender o que significa uma blockchain de layer 0, layer 1... 
 - Assinatura digital ( usado na verificação da transaction )
 
 # Mecanismo de consenso
