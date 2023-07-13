@@ -64,7 +64,7 @@ Comunidades brasileira super ativa com vária iniciativas para ajudar iniciantes
 
 Um canal no YouTube que traz informações atualizadas sobre criptomoedas e tecnologia blockchain.
 
-### [castacrypto](www.youtube.com/@castacrypto/)
+### [Castacrypto](www.youtube.com/@castacrypto/)
 
 Canal no youtube de cripto usando uma bordagem bem amigável para novatos no mundo cripto.
 
