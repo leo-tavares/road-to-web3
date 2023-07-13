@@ -64,6 +64,10 @@ Comunidades brasileira super ativa com vária iniciativas para ajudar iniciantes
 
 Um canal no YouTube que traz informações atualizadas sobre criptomoedas e tecnologia blockchain.
 
+### [castacrypto](www.youtube.com/@castacrypto/)
+
+Canal no youtube de cripto usando uma bordagem bem amigável para novatos no mundo cripto.
+
 ### [Ethereum Brasil](https://www.ethereumbrasil.com/)
 
 Comunidade para apoiar os builder em nosso pais. Várias iniciativas são feitas para fomentar, uma deles são os eventos anuais tipo o [Ethereum rio 2023](https://www.ethereumbrasil.com/ethereumrio) que vai rolar agora nos dias 28-30 de março
