@@ -1,15 +1,15 @@
-
 # 🚀 Road to web3 🚀
 
-👋 Olá! A ideia desse repositório e fornecer informações relevantes para pessoas que desejam compreender a Blockchain, web3, cryptocurrency. 
+👋 Olá! A ideia desse repositório é prover informações relevantes para pessoas que desejam compreender a Blockchain, web3, cryptocurrency. 
 
-🙄 Seria ótimo contar com a sua contribuição neste repositório. Sinta-se à vontade para abrir um pull request caso tenha interesse 😁
+🙄 Seria ótimo contar com a sua contribuição neste repositório. Sinta-se a vontade para abrir um pr caso tenha interesse 😁
 
 #### Table of contents
 - [Roadmaps](#-roadmaps)
 - [Cursos gratuitos de ótima qualidade](#-roadmaps)
 - [Cursos de aprofundamento](#-cursos-de-aprofundamento-)
 - [Artigos](#-artigos-)
+- [Livros](#-livros-)
 - [Linguagens para ficar de 👀](#linguagens-para-ficar-de-)
 - [Comunidades para acompanhar de perto](#comunidades-para-acompanhar-de-perto)
 
@@ -40,6 +40,11 @@
 
 - [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
 - [What is blockchain](https://cse.sc.edu/~mgv/csce190f18/diPierro_mcs2017050092.pdf)
+
+## 📚 Livros 📚
+
+- Pegada técnica 👉 [grokking-bitcoin](https://www.manning.com/books/grokking-bitcoin)
+- Aspectos gerais do btc [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://saifedean.com/tbs)
 
 ## 😮Linguagens para ficar de 👀
 
