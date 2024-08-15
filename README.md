@@ -29,6 +29,7 @@
 ## 📚 Cursos gratuitos de ótima qualidade 📚
 
 - [What is blockchain and how does it work?](https://www.youtube.com/watch?v=SSo_EIwHSd4&ab_channel=SimplyExplained)
+- [Binance Academy](https://academy.binance.com/en)
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)
 
 ## 📗 Cursos de aprofundamento 📗
