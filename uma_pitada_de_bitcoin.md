@@ -14,7 +14,7 @@ linhas de crédito e investimentos, teremos um impacto negativo em nosso desenvo
 
 ### Btc
 
-Por tratar-se de um sistema descentralizado, o bitcoin não possui um órgão ou entidade o controlando. Nenhum de seus nós[^2] se sobropoem a outros, existem centenas de nós validadores na rede do btc. Com efeito, torna-se extremamente difícil controlar quem e como está fazendo uso. O sistema descentralizado torna praticamente impossível censurar transferências, negar pagamentos ou até mesmo impor um limite monetário da transação. 
+Trata-se de um sistema descentralizado, o bitcoin não possui um órgão ou entidade o controlando. Nenhum de seus nós[^2] se sobrepõem a outros, existem centenas de nós validadores na rede do btc. Com efeito, torna-se extremamente difícil controlar quem e como está fazendo uso. O sistema descentralizado torna praticamente impossível censurar transferências, negar pagamentos ou até mesmo impor um limite monetário da transação. 
 
 
 ## Privacidade
@@ -26,8 +26,8 @@ como será as políticas ou até mesmo o governo no futuro (...e se uma tirania 
 
 ### Btc
 
-Com o sistema descentralizado, não é necessário solicitar permissão para negociar, basta que as duas partes estajam conectadas a internet e conectadas a um nó de btc através de uma carteira.
-O mecânismo de consenso traz, além da privacidade, o sistema antifraude. A ideia é que ainda que alguns poucos nós sejam fraudados os demais atuaram para ignorá-lo, em vista a fraude. 
+Com o sistema descentralizado, não é necessário solicitar permissão para negociar, basta que as duas partes estejam conectadas a internet e conectadas a um nó de btc através de uma carteira.
+O mecanismo de consenso traz, além da privacidade, o sistema antifraude. A ideia é que ainda que alguns poucos nós sejam fraudados os demais atuaram para ignorá-lo, em vista a fraude. 
 
 
 ## Inflação
@@ -40,7 +40,7 @@ em especial, da população economicamente vulnerável.
 
 ### Btc
 
-O bitcoin é vitama da inflação devido ao limite ( hardcoded ) de 21 milões de unidades, a "produção" de bitcoin também é dificultada de tempos em tempos, normalmente de 4 em 4 anos.
+O bitcoin é vítima da inflação devido ao limite ( hardcoded ) de 21 milões de unidades, a "produção" de bitcoin também é dificultada de tempos em tempos, normalmente a cada 4 anos.
 
 ## "Borders"
 | A ideia mais próxima da palavra Border seria fronteira
@@ -56,7 +56,7 @@ Perceba que temos alguns intermediários e obviamente teremos que pagar taxas pe
 
 ### Btc
 
-Com o bitcoin não precisamos nos preocupar com barreiras, basta estar conectados a internet para conseguirmos transacionar com outras pessoas... isso é uma quebra de paradigma nunca antes visto. Não há difirenças em enviar btc para um vizinho ou alguém do outro lado da terra.
+Com o bitcoin não precisamos nos preocupar com barreiras, basta estar conectados a internet para conseguirmos transacionar com outras pessoas... isso é uma quebra de paradigma nunca visto. Não há diferenças em enviar btc para um vizinho ou alguém do outro lado da terra.
 
 
 
