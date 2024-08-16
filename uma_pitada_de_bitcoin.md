@@ -14,6 +14,8 @@ linhas de crédito e investimentos, teremos um impacto negativo em nosso desenvo
 
 ### Btc
 
+Por tratar-se de um sistema descentralizado, o bitcoin não possui um órgão ou entidade o controlando. Nenhum de seus nós[^2] se sobropoem a outros, existem centenas de nós validadores na rede do btc. Com efeito, torna-se extremamente difícil controlar quem e como está fazendo uso. O sistema descentralizado torna praticamente impossível censurar transferências, negar pagamentos ou até mesmo impor um limite monetário da transação. 
+
 
 ## Privacidade
 
@@ -24,16 +26,21 @@ como será as políticas ou até mesmo o governo no futuro (...e se uma tirania 
 
 ### Btc
 
+Com o sistema descentralizado, não é necessário solicitar permissão para negociar, basta que as duas partes estajam conectadas a internet e conectadas a um nó de btc através de uma carteira.
+O mecânismo de consenso traz, além da privacidade, o sistema antifraude. A ideia é que ainda que alguns poucos nós sejam fraudados os demais atuaram para ignorá-lo, em vista a fraude. 
+
+
 ## Inflação
 
 ### Fiat
 
-São vários os fatores que podem resultar na inflação, o principal deles a expansão da base monetária [^2]. Destaca-se ainda o hiperinflação, originada do total descontrole
+São vários os fatores que podem resultar na inflação, o principal deles a expansão da base monetária [^3]. Destaca-se ainda o hiperinflação, originada do total descontrole
 dos preços, o próprio Brasil passou por momentos de hiperinflação. Não é segredo que a inflação rouba o poder de comprar da população dificultando cada vez mais o acesso a bens e serviços,
 em especial, da população economicamente vulnerável.
 
 ### Btc
 
+O bitcoin é vitama da inflação devido ao limite ( hardcoded ) de 21 milões de unidades, a "produção" de bitcoin também é dificultada de tempos em tempos, normalmente de 4 em 4 anos.
 
 ## "Borders"
 | A ideia mais próxima da palavra Border seria fronteira
@@ -49,8 +56,12 @@ Perceba que temos alguns intermediários e obviamente teremos que pagar taxas pe
 
 ### Btc
 
+Com o bitcoin não precisamos nos preocupar com barreiras, basta estar conectados a internet para conseguirmos transacionar com outras pessoas... isso é uma quebra de paradigma nunca antes visto. Não há difirenças em enviar btc para um vizinho ou alguém do outro lado da terra.
+
+
 
 
 
 [^1]: https://www.youtube.com/watch?v=4iGF2Ce-y60
-[^2]: https://unicamp.br/unicamp/ju/artigos/inflacao-causa-nao-e-o-efeito/
+[^2]: https://bitcoin.org/en/full-node#what-is-a-full-node
+[^3]: https://unicamp.br/unicamp/ju/artigos/inflacao-causa-nao-e-o-efeito/
